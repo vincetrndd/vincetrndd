@@ -6,7 +6,6 @@
 ---
 <h2 data-importer="text" align="left">Tools & Tech</h2>
 
-###
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
@@ -29,8 +28,9 @@
 </div>
 
 ###
-<h2 data-importer="text" align="left">Let's Connect</h2>
 ---
+<h2 data-importer="text" align="left">Let's Connect</h2>
+
 
 
 <div data-importer="socials" align="left">
