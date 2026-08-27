@@ -3,7 +3,6 @@
 <p data-importer="text" align="left">Hi, I'm Vince!  I'm a Computer Science graduate specializing in Intelligent Systems.<br><br>I build web applications and intelligent systems, with interests in AI, cybersecurity, and software development.<br><br>I enjoy turning ideas into functional projects, solving problems through technology, and learning something new with every project I build.</p>
 
 ###
----
 <h2 data-importer="text" align="left">Tools & Tech</h2>
 
 
@@ -28,7 +27,6 @@
 </div>
 
 
----
 <h2 data-importer="text" align="left">Let's Connect</h2>
 
 
