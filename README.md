@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
+
 ---
 <h2 data-importer="text" align="left">Let's Connect</h2>
 
@@ -43,4 +43,3 @@
   </a>
 </div>
 
-###
