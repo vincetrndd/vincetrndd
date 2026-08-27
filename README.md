@@ -1,6 +1,4 @@
-<h1 data-importer="text" align="left">Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
-
-###
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <p data-importer="text" align="left">Hi, I'm Vince!  I'm a Computer Science graduate specializing in Intelligent Systems.<br><br>I build web applications and intelligent systems, with interests in AI, cybersecurity, and software development.<br><br>I enjoy turning ideas into functional projects, solving problems through technology, and learning something new with every project I build.</p>
 
@@ -31,10 +29,9 @@
 </div>
 
 ###
----
 <h2 data-importer="text" align="left">Let's Connect</h2>
+---
 
-###
 
 <div data-importer="socials" align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
